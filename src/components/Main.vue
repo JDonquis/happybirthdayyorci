@@ -28,7 +28,7 @@ onMounted(() => {
                     Celebro de tenerte un año más en nuestra en vidas. I love you
                     <br>
                     <br>
-                    Gracias por estar ahi para apoyarme. <span>I love you</span> 🫶
+                    <span>Gracias por estar ahi para apoyarme.</span> 🫶
                 </p>
             </div>
             
