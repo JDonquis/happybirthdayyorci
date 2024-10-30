@@ -20,28 +20,23 @@ onMounted(() => {
     <main class="container">
         <section class="grid_container_section_main">
             <div class="photo">
-                <img src="/realluigi.png" alt="Luigi">
+                <img src="/yorci.gif" alt="Yorci">
             </div>
             <div class="text">
                 <p>
-                    Felicidades en tu día Luigi, eres un gran ejemplo a seguir y pido al Señor que te siga bendiciendo y llenandote de su sabiduría.
-                    Celebro de tenerte un año más como mi hermano en Cristo, Amigo, y Padrino (No es oficial pero te eligo como mi verdadero padrino jaja).
+                    Felicidades en tu día Yorci, eres una gran mujer, amiga y prima. Pido al Señor que te siga bendiciendo y que algún día nos podamos volver a ver.
+                    Celebro de tenerte un año más en nuestra en vidas. I love you
                     <br>
                     <br>
-                    Gracias por estar ahi para apoyarme y enseñarme. <span>I love you</span> 💪🫶
+                    Gracias por estar ahi para apoyarme. <span>I love you</span> 🫶
                 </p>
             </div>
             
-            <p class="bible">Proverbios 27:17: <span>“Así como el hierro afila el hierro, un hombre hace mejor a su amigo”.</span> </p>
-            <button class="player" @click="playAudio">El Negro te reta a darle click</button>
         
         </section>
     </main>
 
-    
-    <audio id="audio" ref="audio" controls>
-        <source type="audio/wav" src="/xd.mp3">
-    </audio>
+
 </template>
 
 <style scoped>
