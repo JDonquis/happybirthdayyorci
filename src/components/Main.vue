@@ -20,7 +20,7 @@ onMounted(() => {
     <main class="container">
         <section class="grid_container_section_main">
             <div class="photo">
-                <img src="/yorci.gif" alt="Yorci">
+                <img src="/Yorci.gif" alt="Yorci">
             </div>
             <div class="text">
                 <p>
