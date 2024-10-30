@@ -16,7 +16,7 @@ onMounted(() => {
                 <h1>¡¡Feliz cumpleaños!!</h1>
                 <img src="/globos.png" class="ballons" alt="globillos" />
             </div>
-            <span class="gianlugi-subtitle">Gianluigi Strippoli 😎💯</span>
+            <span class="gianlugi-subtitle">Yorcibel Acosta Diaz ❤️❤️</span>
         </section>
     </header>
 </template>
